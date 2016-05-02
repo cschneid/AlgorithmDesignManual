@@ -1,0 +1,6 @@
+[package]
+name = "1_0_insertion_sort"
+version = "0.1.0"
+authors = ["Chris Schneider <chris@scoutapp.com>"]
+
+[dependencies]
